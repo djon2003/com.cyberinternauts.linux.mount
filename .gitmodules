@@ -1,0 +1,4 @@
+[submodule "com.cyberinternauts.linux.libraries"]
+	path = com.cyberinternauts.linux.libraries
+	url = https://github.com/djon2003/com.cyberinternauts.linux.libraries.git
+	branch = master
